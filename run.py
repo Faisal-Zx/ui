@@ -17,7 +17,7 @@ print('÷======== sedang melakukan secan =======÷')
 time.sleep(0.2)
 print(' ')
 
-url ="https://inspire.unsrat.ac.id/login"
+url ="https://unisys.uii.ac.id/login.asp?target=&status="
 
 
 try:
